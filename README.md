@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Ryan 👋
+
+I'm a full-stack software engineer fascinated with all-things React. Officially a TypeScript convert. 
+
+#### Stats 👀
+
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryan-jm&show_icons=true&theme=gotham)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-jm&layout=compact&theme=gotham)
+
 
 <!--
 **ryan-jm/ryan-jm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
